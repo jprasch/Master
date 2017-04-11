@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map for gpsMath
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+gpsMATH	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setBase	KEYWORD2
+setTarg	KEYWORD2
+bConvertX	KEYWORD2
+bConvertY	KEYWORD2
+bConvertZ	KEYWORD2
+tConvertX	KEYWORD2
+tConvertY	KEYWORD2
+tConvertZ	KEYWORD2
+xEAST	KEYWORD2
+yNORTH	KEYWORD2
+zUP	KEYWORD2
+azimuth	KEYWORD2
+elevation	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+_SEMI_MAJOR_AXIS	LITERAL1
+_FIRST_ECCENTRICITY_SQUARED	LITERAL1
