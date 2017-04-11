@@ -1,4 +1,4 @@
-# Master
+# gpsMath
 gpsMath
 
 The gpsMath library offers the capability to calculate the azimuth and elevation angles of a target with respect to a base station. 
